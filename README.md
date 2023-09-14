@@ -18,7 +18,7 @@ To run this application locally, follow these steps:
 2. Navigate to the project directory.
 
 ```sh
-cd product-showcase
+cd react-product-showcase
 ```
 
 3. Install the necessary dependencies.
